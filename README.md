@@ -19,3 +19,4 @@ Additionally a second directory can be made that you can place whatever /etc/ fi
 ### What changes:
 - All required missing system files restored
 - Any binary, temporary or configuration files that are not included by defualt are wiped out from the root filesystem
+- The system will most likley feel cleaner, and less bloated & buggy.

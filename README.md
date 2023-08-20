@@ -1,5 +1,5 @@
 # DebHealthUtil
-The Microsoft Windows System File Checker tool but for Debian to achieve the ultimate unbreakable Linux install
+The Microsoft Windows System File Checker tool but for Debian; in order to achieve the ultimate unbreakable Linux installation
 
 ## How?
 

@@ -4,7 +4,7 @@ The Microsoft Windows System File Checker tool but for Debian; in order to achie
 ## How?
 
 ### Getting a healthy image:
-A Github workflow creates a clean install of Debian, creates a Timeshift snapshot of it, and uploads the image to releases
+A Github workflow cleanly installs Debian, then creates a Timeshift snapshot of it, finally it uploads the snapshot to releases
 
 ### Keeping your OS preferences:
 - A declarative approach is used to make replicable Debian systems by a configuration file that this program recognizes and processes.

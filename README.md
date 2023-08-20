@@ -18,7 +18,7 @@ Additionally a second directory can be made that you can place whatever /etc/ fi
 
 ### What happens?
 1. The latest clean Debian image is downloaded from releases to your PC, then its used to overwrite the root filesystem via a Timeshift snapshot restoration
-2. After that process you should be left with the following
+2. After that process you should be left with the following:
   - All required missing system files restored
   - Any binary, temporary or configuration files that were not included by defualt are wiped out from the root filesystem
   - The system will most likley feel cleaner, and less bloated & buggy.
